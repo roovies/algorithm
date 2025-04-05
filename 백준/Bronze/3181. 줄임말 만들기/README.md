@@ -1,5 +1,8 @@
 # [Bronze II] 줄임말 만들기 - 3181 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/%EB%B8%8C2-%EB%AC%B8%EC%9E%90%EC%97%B4-3181-%EC%A4%84%EC%9E%84%EB%A7%90-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
+### 문제
 [문제 링크](https://www.acmicpc.net/problem/3181) 
 
 ### 성능 요약
