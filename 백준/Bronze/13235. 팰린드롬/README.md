@@ -1,5 +1,8 @@
 # [Bronze II] 팰린드롬 - 13235 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/%EB%B8%8C2-%EB%AC%B8%EC%9E%90%EC%97%B4-13235-%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC)
 
+### 문제
 [문제 링크](https://www.acmicpc.net/problem/13235) 
 
 ### 성능 요약
