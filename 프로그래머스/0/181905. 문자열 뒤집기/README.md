@@ -1,5 +1,8 @@
 # [level 0] 문자열 뒤집기 - 181905 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level0-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)
 
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181905) 
 
 ### 성능 요약
