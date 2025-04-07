@@ -1,5 +1,8 @@
 # [level 1] K번째수 - 42748 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level1-%EC%A0%95%EB%A0%AC-K-%EB%B2%88%EC%A7%B8-%EC%88%98)
 
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42748) 
 
 ### 성능 요약
