@@ -1,5 +1,8 @@
 # [level 0] 특이한 정렬 - 120880 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level0-%EC%A0%95%EB%A0%AC-%ED%8A%B9%EC%9D%B4%ED%95%9C-%EC%A0%95%EB%A0%AC)
 
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120880) 
 
 ### 성능 요약
