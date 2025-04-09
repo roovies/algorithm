@@ -2,36 +2,21 @@ import java.util.*;
 
 class Solution {
     public int[] solution(int[] numlist, int n) {
-        int[] answer = new int[numlist.length];
-        
-        Map<Integer, List<Integer>> map = new TreeMap<>(); 
-        
-        for (int num : numlist) {
-            int diff = (n-num > 0) ? n-num : -(n-num);
-            
-            if(diff == 0)
-                answer[0] = num;
-            else {
-                List<Integer> list = map.get(diff);
-                if(list == null) {
-                    list = new ArrayList<>();
-                    list.add(num);
-                    map.put(diff, list);
-                } else
-                    list.add(num);
-            }
+        int len = numlist.length;
+        int[] answer = new int[len];
+        Integer[] arr = new Integer[len];
+        for (int i = 0; i < len; i++) {
+            arr[i] = numlist[i];
         }
         
-        int i = answer[0] != 0 ? 1 : 0;
-        for (Map.Entry<Integer, List<Integer>> entry : map.entrySet()) {
-            List<Integer> list = entry.getValue();
-            
-            Collections.sort(list, Collections.reverseOrder());
-            
-            for (int num : list) {
-                answer[i] = num;
-                i++;
-            }
+        Arrays.sort(arr, (n1, n2) -> {
+            if (Math.abs(n-n1) == Math.abs(n-n2))
+                return n2 - n1;
+            return (Math.abs(n-n1) - Math.abs(n-n2));
+        });
+        
+        for (int i = 0; i < len; i++) {
+            answer[i] = arr[i];
         }
         
         return answer;
