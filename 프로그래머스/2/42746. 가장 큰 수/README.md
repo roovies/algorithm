@@ -1,5 +1,8 @@
 # [level 2] 가장 큰 수 - 42746 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level2-%EC%A0%95%EB%A0%AC-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98)
 
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42746?language=java) 
 
 ### 성능 요약
