@@ -1,5 +1,9 @@
 # [level 0] 문자열 잘라서 정렬하기 - 181866 
 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level0-%EC%A0%95%EB%A0%AC-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%9E%98%EB%9D%BC%EC%84%9C-%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181866) 
 
 ### 성능 요약
