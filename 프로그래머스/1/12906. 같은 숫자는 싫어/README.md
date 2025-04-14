@@ -1,5 +1,9 @@
 # [level 1] 같은 숫자는 싫어 - 12906 
 
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/Level1-%EC%8A%A4%ED%83%9D%ED%81%90-%EA%B0%99%EC%9D%80-%EC%88%AB%EC%9E%90%EB%8A%94-%EC%8B%AB%EC%96%B4)
+
+### 문제
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12906) 
 
 ### 성능 요약
