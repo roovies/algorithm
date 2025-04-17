@@ -1,5 +1,7 @@
 # [Silver III] 단어 뒤집기 2 - 17413 
-
+### 풀이 및 회고
+[풀이 및 회고 링크](https://roovies.tistory.com/entry/%EC%8B%A4%EB%B2%843-%EC%8A%A4%ED%83%9D%ED%81%90-%EB%8B%A8%EC%96%B4-%EB%92%A4%EC%A7%91%EA%B8%B02)
+### 문제
 [문제 링크](https://www.acmicpc.net/problem/17413) 
 
 ### 성능 요약
